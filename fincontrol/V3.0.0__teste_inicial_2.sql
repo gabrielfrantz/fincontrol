@@ -1,0 +1,1 @@
+﻿INSERT INTO usuario (nom_usuario, nom_identificacao, des_senha, ind_ativo, des_email) VALUES ('Teste2', 'teste2', MD5('123'), 'S', 'teste2@gmail.com');
